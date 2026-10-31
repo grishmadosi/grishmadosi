@@ -1,16 +1,15 @@
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:07000D,25:4B0082,55:9400FF,80:FF00CC,100:07000D&text=GRISHMA%20DOSHI&fontSize=60&fontColor=FFFFFF&stroke=FF00CC&strokeWidth=2&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20EXPLORER&descSize=16&descColor=E0B0FF&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:080014,25:31005E,55:8A00FF,80:FF00CC,100:080014&text=GRISHMA%20DOSHI&fontSize=58&fontColor=FFFFFF&stroke=FF00CC&strokeWidth=2&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=16&descColor=E9C8FF&descAlignY=70" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=FF00CC&center=true&vCenter=true&width=650&lines=Code+%3E+Create+%3E+Question+%3E+Repeat;Full+Stack+Development;Backend+Engineering;Exploring+Agentic+AI+%26+RAG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=FF00CC&center=true&vCenter=true&width=650&lines=Code+%3E+Question+%3E+Create+%3E+Repeat;Building+Ideas+Beyond+This+Planet;Full+Stack+%7C+Backend+Engineering;Exploring+Agentic+AI+%26+RAG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/MCA-MNNIT%20ALLAHABAD-9400FF?style=for-the-badge&labelColor=090014" />
-<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-FF00CC?style=for-the-badge&labelColor=090014" />
-<img src="https://img.shields.io/badge/AI-EXPLORER-9400FF?style=for-the-badge&labelColor=090014" />
+<img src="https://img.shields.io/badge/MCA-MNNIT_ALLAHABAD-9400FF?style=for-the-badge&labelColor=090014"/>
+<img src="https://img.shields.io/badge/FULL_STACK-DEVELOPER-FF00CC?style=for-the-badge&labelColor=090014"/>
+<img src="https://img.shields.io/badge/AI-EXPLORER-9400FF?style=for-the-badge&labelColor=090014"/>
 
 <br/><br/>
 
@@ -22,29 +21,32 @@
 
 ---
 
-<h2 align="center">✦ ABOUT ME ✦</h2>
+## ABOUT ME
 
 <table>
 <tr>
-<td width="58%" valign="center">
+<td width="55%" valign="center">
 
-### Hey, I'm Grishma! 👋
+### Hi, I'm Grishma.
 
-A developer who enjoys turning ideas into working products and solving problems through code.
+A developer who loves building scalable software, exploring AI and solving real-world problems through code.
 
-- 🎓 MCA @ MNNIT Allahabad
-- 💻 Full-Stack & Backend Development
-- ☕ Java & Spring Boot enthusiast
-- 🧠 Data Structures & Algorithms
-- 🤖 Exploring Agentic AI and RAG
-- 🔬 Interested in open-source AI and system design
+- MCA @ MNNIT Allahabad
+- Full-Stack and Backend Development
+- Java and Spring Boot
+- Data Structures and Algorithms
+- Exploring Agentic AI, RAG and LLMs
+- Interested in space, astronomy and the mysteries of the universe
+- Turning ideas into real-world products
 
-**Always curious about what's happening behind the code.**
+**Curious about how things work — on Earth and beyond it.**
 
 </td>
-<td width="42%" align="center">
+<td width="45%" align="center" valign="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="./assets/space-girl.png" width="100%" alt="Girl coding in a neon cosmic workspace"/>
+
+<sub>Building ideas beyond this planet.</sub>
 
 </td>
 </tr>
@@ -52,57 +54,70 @@ A developer who enjoys turning ideas into working products and solving problems 
 
 ---
 
-<h2 align="center">✦ TECH ARSENAL ✦</h2>
-
 <div align="center">
 
-### Programming Languages
+### A DEVELOPER'S PHILOSOPHY
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark" />
+# AI gives you answers,
+# but coding gives you questions.
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mysql,firebase&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,maven&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=B000FF&center=true&vCenter=true&width=450&lines=Stay+curious.;Keep+exploring+the+unknown.;The+universe+is+full+of+questions." />
 
 </div>
 
 ---
 
-<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
+## TECH STACK
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark"/>
+
+### Backend and Databases
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mysql,firebase&theme=dark"/>
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,maven&theme=dark"/>
+
+</div>
+
+---
+
+## FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔮 ResearchMate</h3>
+### ResearchMate
 
 **Agentic AI Research Assistant**
 
-An intelligent research companion for exploring and analyzing academic papers.
+An AI-powered research companion for understanding and analyzing academic papers.
 
 - PDF ingestion and processing
 - Retrieval-Augmented Generation
 - Context-aware question answering
 - Research exploration
 
-`Python` `RAG` `NLP` `Open-source LLMs`
+`RAG` `NLP` `AI` `Open-source LLMs`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📚 Yaado Ka Baksa</h3>
+### Yaado Ka Baksa
 
 **The Digital Legacy Trunk**
 
-A digital family archive for preserving memories, stories and experiences.
+A digital family archive to preserve memories, stories and personal experiences.
 
 - Multimedia memories
 - Digital scrapbooks
@@ -111,7 +126,7 @@ A digital family archive for preserving memories, stories and experiences.
 
 `React` `Spring Boot` `Java` `PostgreSQL`
 
-<a href="https://github.com/Yashwardhan61/Code_Frolics">↗ View Repository</a>
+[View Repository](https://github.com/Yashwardhan61/Code_Frolics)
 
 </td>
 </tr>
@@ -119,7 +134,7 @@ A digital family archive for preserving memories, stories and experiences.
 <tr>
 <td width="50%" valign="top">
 
-<h3>⚡ SkillSync</h3>
+### SkillSync
 
 **Academia–Industry Collaboration Portal**
 
@@ -135,12 +150,12 @@ A platform connecting students, academicians and industries.
 </td>
 <td width="50%" valign="top">
 
-<h3>💡 More Projects</h3>
+### More Projects
 
-I'm continuously experimenting with new ideas, exploring technologies and building applications.
+Continuously experimenting with new technologies and building solutions that make an impact.
 
 <a href="https://github.com/grishmadosi?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-FF00CC?style=for-the-badge&labelColor=090014"/>
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-FF00CC?style=for-the-badge&labelColor=090014"/>
 </a>
 
 </td>
@@ -149,7 +164,7 @@ I'm continuously experimenting with new ideas, exploring technologies and buildi
 
 ---
 
-<h2 align="center">✦ GITHUB STATISTICS ✦</h2>
+## GITHUB STATISTICS
 
 <div align="center">
 
@@ -165,7 +180,7 @@ I'm continuously experimenting with new ideas, exploring technologies and buildi
 
 ---
 
-<h2 align="center">✦ ACHIEVEMENTS ✦</h2>
+## ACHIEVEMENTS
 
 <div align="center">
 
@@ -173,40 +188,36 @@ I'm continuously experimenting with new ideas, exploring technologies and buildi
 <img src="https://img.shields.io/badge/MAH--MCA--CET-99.5%25-9400FF?style=for-the-badge&labelColor=090014"/>
 <img src="https://img.shields.io/badge/KIITEE_MCA-98_PERCENTILE-FF00CC?style=for-the-badge&labelColor=090014"/>
 
-<br/><br/>
-
-🏆 **AIR 69 — NIMCET 2025**
-
-🥇 **99.5 Percentile — MAH-MCA-CET 2025**
-
-🏅 **98 Percentile — KIITEE MCA 2025**
-
-🏆 **First Position — District-Level Science Debate, 2022**
-
 </div>
+
+- All India Rank 69 — NIMCET 2025
+- 99.5 Percentile — MAH-MCA-CET 2025
+- 98 Percentile — KIITEE MCA 2025
+- First Position — District-Level Science Debate, 2022
 
 ---
 
-<h2 align="center">✦ LET'S CONNECT ✦</h2>
+## LET'S CONNECT
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/grishmadoshi2/">
-<img src="https://img.shields.io/badge/LinkedIn-FF00CC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090014"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-FF00CC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090014"/>
 </a>
 
 <a href="https://github.com/grishmadosi">
-<img src="https://img.shields.io/badge/GitHub-9400FF?style=for-the-badge&logo=github&logoColor=white&labelColor=090014"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-9400FF?style=for-the-badge&logo=github&logoColor=white&labelColor=090014"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=FF00CC&center=true&vCenter=true&width=500&lines=Let's+build+something+extraordinary!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=FF00CC&center=true&vCenter=true&width=500&lines=Somewhere+between+code+and+cosmos.;Keep+building.+Keep+questioning." />
 
 <br/>
 
-<h3>AI gives you answers,<br/>but coding gives you questions.</h3>
+### AI gives you answers,
+### but coding gives you questions.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07000D,30:4B0082,65:9400FF,100:FF00CC&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,30:4B0082,65:9400FF,100:FF00CC&height=130&section=footer" width="100%"/>
 
 </div>
